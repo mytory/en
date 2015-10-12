@@ -1,0 +1,31 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="logo" href="/">
+      <span class="logo__img">{% include logo.svg.html %}</span>
+      <span class="logo__title">{% include site-name.svg.html %}</span>
+    </a>
+
+    <nav class="site-nav  site-nav--palm">
+        <div class="wrapper"><!--
+          {% for page in site.pages %}
+            {% if page.title and page.dir != "/jquery-validate-demo" and page.title != 'PayPal 후원' %}
+            --><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><!--
+            {% endif %}
+          {% endfor %}
+          -->
+        </div>
+      </nav>
+  </div>
+  <nav class="site-nav  site-nav--laptop">
+    <div class="wrapper"><!--
+      {% for page in site.pages %}
+        {% if page.title and page.dir != "/jquery-validate-demo" and page.title != 'PayPal 후원' %}
+        --><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><!--
+        {% endif %}
+      {% endfor %}
+      -->
+    </div>
+  </nav>
+</header>

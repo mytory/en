@@ -1,9 +1,7 @@
 ---
-title: Who am I
+title: About
 author: 녹풍(綠風, Windgreen)
 layout: page
-mytory_md_path:
-  - 
 ---
 I&#8217;m Korean Developer. My name is Ahn, Hyoung-woo.
 

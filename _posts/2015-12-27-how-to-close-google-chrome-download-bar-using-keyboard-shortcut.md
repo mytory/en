@@ -10,7 +10,7 @@ tags:
 
 summery: <kbd>Ctrl + j</kbd> and <kbd>Ctrl + w</kbd>.
 
-I mainly use keyboard on web serfing. It may be just my finger, index finger joint ache when I use mouse long time. So I use Chrome extension like Vimium allow to surf the web without a mouse.
+I mainly use keyboard on web serfing. It may be just my finger, index finger joint ache when I use mouse long time. So I use Chrome extension like [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) allow to surf the web without a mouse.
 
 Chrome leave download status bar after download complete. It is annoying. Of course It's good on downloading. But after download, I have to use a mouse to click `x` button for close the download status bar. I don't like to release my hand from keyboard.
 

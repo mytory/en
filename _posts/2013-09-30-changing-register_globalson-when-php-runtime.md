@@ -1,8 +1,7 @@
 ---
 title: changing register_globals=On when PHP runtime
-author: 녹풍(綠風, Windgreen)
+author: Ahn, Hyeong-woo
 layout: post
-permalink: /2013/09/30/changing-register_globalson-when-php-runtime/
 categories:
   - Web Server
 tags:

@@ -1,10 +1,11 @@
 ---
 title: 'Using SVG 1 &#8211; SVG vs Icon Font'
-author: 녹풍(綠風, Windgreen)
+author: Ahn, Hyeong-woo
 layout: post
-permalink: /2013/09/28/using-svg-1-svg-vs-icon-font/
 categories:
   - Web Publishing
+tags:
+  - SVG
 ---
 My blog design totally changed. I used SVG, not icon font.
 

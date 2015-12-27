@@ -9,14 +9,22 @@ dl, dd, ol, ul, figure
 address
   font-style: normal
 
-// In korean, italic is not prefferd.
-em 
-  font-style: normal
-  text-decoration: underline
-
 i
   font-style: normal
   border-bottom: 1px dotted $text-color
+
+kbd
+  display: inline-block
+  padding: 3px 5px
+  font-size: 11px
+  line-height: 10px
+  color: #555
+  vertical-align: middle
+  background-color: #fcfcfc
+  border: solid 1px #ccc
+  border-bottom-color: #bbb
+  border-radius: 3px
+  box-shadow: inset 0 -1px 0 #bbb
 
 hr
   margin-top: $spacing-unit / 2
@@ -31,7 +39,6 @@ body
   font-weight: light
   color: $text-color
   background-color: #fff
-  word-break: break-all
   -webkit-text-size-adjust: 100%
 
 /**

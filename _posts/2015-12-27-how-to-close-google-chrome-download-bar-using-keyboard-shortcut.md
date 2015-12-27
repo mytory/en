@@ -18,7 +18,7 @@ I was looking for keyboard shortcut, and there was nothing usable. [Always Clear
 
 [Method to create macro for mac](http://rocketink.net/2013/06/close-google-chrome-downloads.html) is good. But I don't use a mac.
 
-Well, I found easier than expected. Howto is that <kbd>Ctrl + j</kbd>. Than, Chrome open download list tab and close download status bar. Wow~! Now, press <kbd>Ctrl + w</kbd> to close download list tab. You return to a tab you were.
+Well, I found easier than expected. Howto is that <kbd>Ctrl</kbd> + <kbd>j</kbd>. Than, Chrome open download list tab and close download status bar. Wow~! Now, press <kbd>Ctrl</kbd> + <kbd>w</kbd> to close download list tab. You return to a tab you were.
 
 Conclusion:
 

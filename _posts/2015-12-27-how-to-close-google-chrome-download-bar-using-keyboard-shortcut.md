@@ -8,7 +8,7 @@ tags:
   - tip
 ---
 
-summery: <kbd>Ctrl + j</kbd> and <kbd>Ctrl + w</kbd>.
+summery: <kbd>Ctrl</kbd> + <kbd>j</kbd> and <kbd>Ctrl</kbd> + <kbd>w</kbd>.
 
 I mainly use keyboard on web serfing. It may be just my finger, index finger joint ache when I use mouse long time. So I use Chrome extension like [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) allow to surf the web without a mouse.
 

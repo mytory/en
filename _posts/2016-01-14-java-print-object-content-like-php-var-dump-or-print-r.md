@@ -17,31 +17,31 @@ Although inconvenient, you can use a `toString()` method like `print_r` in JAVA.
 If you use maven, add dependency to `pom.xml`.
 
     <dependency>
-	    <groupId>org.pojomatic</groupId>
-    	<artifactId>pojomatic</artifactId>
-	    <version>1.0</version>
+        <groupId>org.pojomatic</groupId>
+        <artifactId>pojomatic</artifactId>
+        <version>1.0</version>
     </dependency>
 
 Then add `@AutoProperty` annotation to class you want to read like `PostVo.java`.
 
 And, override toString method like this:
 
-	@Override
-	 public String toString() {
-		 return Pojomatic.toString (this);
-	}
+    @Override
+     public String toString() {
+         return Pojomatic.toString (this);
+    }
 
 You can override `hashCode()` and `equals(Object o)`.
 
-	@Override
-	 public boolean equals(Object o) {
-		 return Pojomatic.equals (this, o);
-	}
+    @Override
+     public boolean equals(Object o) {
+         return Pojomatic.equals (this, o);
+    }
 
-	@Override
-	 public int hashCode() {
-		 return Pojomatic.hashCode (this);
-	}
+    @Override
+     public int hashCode() {
+         return Pojomatic.hashCode (this);
+    }
 
 You can use below code, and see below result.
 

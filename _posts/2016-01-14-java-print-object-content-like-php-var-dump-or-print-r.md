@@ -1,5 +1,5 @@
 ---
-title: Java, print Object content like php `var_dump` or `print_r` using Pojomatic
+title: Java, print Object content like php var_dump or print_r using Pojomatic
 author: Ahn, Hyeong-woo
 layout: post
 categories:

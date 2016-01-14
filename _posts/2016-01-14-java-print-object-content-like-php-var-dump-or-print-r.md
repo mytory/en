@@ -22,7 +22,14 @@ If you use maven, add dependency to `pom.xml`.
         <version>1.0</version>
     </dependency>
 
-Then add `@AutoProperty` annotation to class you want to read like `PostVo.java`.
+
+Then, import Pojomatic and add `@AutoProperty` annotation to class you want to read like `PostVo.java`.
+
+    import org.pojomatic.Pojomatic;
+    import org.pojomatic.annotations.AutoProperty;
+
+    @AutoProperty
+    public class PostVO { ... }
 
 And, override toString method like this:
 

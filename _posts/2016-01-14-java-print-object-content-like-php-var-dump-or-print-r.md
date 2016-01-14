@@ -55,3 +55,5 @@ You can use below code, and see below result.
     System.out.println(new Person("John", "Doe", 32).toString());
     
     // result: Person{firstName: {John}, lastName: {Doe}, age: {32}}
+
+Of course, you can use code like `logger.debug("{}", vo)`.

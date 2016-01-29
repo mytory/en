@@ -3,7 +3,7 @@ title: 'Using SVG 1 &#8211; SVG vs Icon Font'
 author: Ahn, Hyeong-woo
 layout: post
 categories:
-  - Web Publishing
+  - front-end
 tags:
   - SVG
 ---

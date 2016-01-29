@@ -2,8 +2,9 @@
 title: Change system default font for other language in OpenSuse
 layout: post
 categories:
-  - linux
+  - etc
 tags:
+  - linux
   - opensuse
 ---
 

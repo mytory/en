@@ -3,7 +3,7 @@ title: changing register_globals=On when PHP runtime
 author: Ahn, Hyeong-woo
 layout: post
 categories:
-  - Web Server
+  - serverside
 tags:
   - php
   - tip

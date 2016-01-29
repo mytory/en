@@ -3,7 +3,7 @@ title: Raspberry pi node.js install deb file(v0.10.25)
 author: Ahn, Hyeong-woo
 layout: post
 categories:
-  - serverside
+  - etc
 tags:
   - Raspberry pi
 ---

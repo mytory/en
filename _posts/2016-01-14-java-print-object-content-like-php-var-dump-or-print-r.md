@@ -5,7 +5,8 @@ layout: post
 categories:
   - serverside
 tags:
-  - java, pojomatic
+  - java
+  - pojomatic
 ---
 
 I've been PHP developer. PHP has powerful debug method like `print_r`, `var_dump` and debug lib like [xdebug](http://xdebug.org/).

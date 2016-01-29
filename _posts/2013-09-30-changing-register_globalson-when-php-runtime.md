@@ -3,9 +3,8 @@ title: changing register_globals=On when PHP runtime
 author: Ahn, Hyeong-woo
 layout: post
 categories:
-  - serverside
-tags:
   - php
+tags:
   - tip
 ---
 I set `register_globals=``Off` on localhost. That must be expected.

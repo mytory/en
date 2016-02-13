@@ -1,5 +1,5 @@
 ---
-title: How to run google chrome crashed on openSUSE 13.2(Check failed: NamespaceUtils::WriteToIdMapFile("/proc/self/gid_map", gid_))
+title: 'How to run google chrome crashed on openSUSE 13.2(Check failed: NamespaceUtils::WriteToIdMapFile("/proc/self/gid_map", gid_))'
 layout: post
 categories:
   - linux

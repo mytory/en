@@ -12,3 +12,4 @@ github_username: "mytory"
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate

@@ -10,15 +10,15 @@ tags:
 
 There is repeated CSS, js on codes I maintain. Naturally I've tried to divide js, CSS from the file. But, IDE alert errors after extract js. Because codes below:
 
-<pre>var url = "http://${pageContext.request.serverName}:${pageContext.request.serverPort}/api/";</pre>
+    var url = "http://${pageContext.request.serverName}:${pageContext.request.serverPort}/api/";
 
 `${pageContext.request.serverName}` point domain part on URL in jsp - or IP number. PHP version is below:
 
-<pre>var url = "http://<?= $_SERVER['HTTP_HOST'] ?>/api/";</pre>
+    var url = "http://<?= $_SERVER['HTTP_HOST'] ?>/api/";
 
 These codes degrade readability and confuse other developers. Bad. Instead, simply write like below using js.
 
-<pre>var url = location.origin + '/api/';</pre>
+    var url = location.origin + '/api/';
 
 IE lower than 10 has not `window.location.origin` object, so insert below code before use `origin` object.
 
